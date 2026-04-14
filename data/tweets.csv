@@ -1,1 +1,101 @@
-
+id,tweet,sentiment
+1,Artificial Intelligence is transforming healthcare for the better,positive
+2,AI-powered tools are making life easier and more efficient,positive
+3,I love how AI helps in personalized recommendations,positive
+4,AI is revolutionizing education and learning,positive
+5,The future of AI looks incredibly promising,positive
+6,AI chatbots provide quick and helpful customer support,positive
+7,Machine learning is opening new doors for innovation,positive
+8,AI is enhancing productivity across industries,positive
+9,Self-driving cars powered by AI are fascinating,positive
+10,AI is helping doctors diagnose diseases earlier,positive
+11,AI assistants save so much time in daily tasks,positive
+12,The accuracy of AI in data analysis is impressive,positive
+13,AI is enabling smarter decision-making,positive
+14,AI is making businesses more efficient,positive
+15,AI innovations are shaping a better future,positive
+16,AI is improving accessibility for people with disabilities,positive
+17,AI-driven automation increases operational efficiency,positive
+18,AI is transforming the way we interact with technology,positive
+19,AI helps detect fraud effectively,positive
+20,AI is a game changer for scientific research,positive
+21,AI technology is amazing and inspiring,positive
+22,AI enhances cybersecurity defenses,positive
+23,AI-powered translation tools break language barriers,positive
+24,AI is making smart homes more intelligent,positive
+25,AI is driving innovation in every sector,positive
+26,AI tools are becoming common in daily life,neutral
+27,Many companies are investing in AI technologies,neutral
+28,AI is being integrated into various applications,neutral
+29,There are ongoing discussions about AI regulations,neutral
+30,AI adoption is increasing across industries,neutral
+31,AI conferences are held worldwide,neutral
+32,Researchers are continuously improving AI models,neutral
+33,AI is part of modern technological advancements,neutral
+34,AI systems require large amounts of data,neutral
+35,AI is used in recommendation systems,neutral
+36,AI development requires significant computational resources,neutral
+37,AI is a trending topic in technology,neutral
+38,AI courses are becoming popular among students,neutral
+39,AI startups are emerging globally,neutral
+40,AI is used in voice recognition systems,neutral
+41,AI is influencing the future job market,neutral
+42,AI tools are integrated into smartphones,neutral
+43,AI is discussed in many academic studies,neutral
+44,AI applications span multiple industries,neutral
+45,AI research continues to evolve,neutral
+46,AI is utilized in data analytics,neutral
+47,AI systems rely on algorithms and data,neutral
+48,AI is becoming part of everyday technology,neutral
+49,AI development involves interdisciplinary fields,neutral
+50,AI is shaping modern digital transformation,neutral
+51,I am worried that AI might replace many jobs,negative
+52,AI raises serious privacy concerns,negative
+53,Overreliance on AI could be dangerous,negative
+54,AI systems sometimes produce biased results,negative
+55,The misuse of AI technology is alarming,negative
+56,AI could increase unemployment rates,negative
+57,Ethical issues surrounding AI are concerning,negative
+58,AI surveillance threatens personal freedom,negative
+59,AI decisions can lack transparency,negative
+60,AI technology can be exploited for cybercrime,negative
+61,AI errors in healthcare could be risky,negative
+62,There is fear about losing control over AI systems,negative
+63,AI deepfakes are becoming a serious problem,negative
+64,AI may widen the gap between rich and poor,negative
+65,Dependence on AI reduces human creativity,negative
+66,AI implementation can be very expensive,negative
+67,AI systems can be vulnerable to attacks,negative
+68,AI could lead to ethical dilemmas,negative
+69,Job automation due to AI is concerning,negative
+70,AI misuse in warfare is frightening,negative
+71,AI sometimes makes incorrect predictions,negative
+72,AI can reinforce societal biases,negative
+73,There is limited accountability in AI decisions,negative
+74,AI-generated misinformation is dangerous,negative
+75,AI may reduce human interaction,negative
+76,AI regulations are still insufficient,negative
+77,AI systems may invade personal privacy,negative
+78,AI dependency could weaken human skills,negative
+79,AI failures can have serious consequences,negative
+80,AI technology can be misused by malicious actors,negative
+81,AI helps improve medical diagnoses significantly,positive
+82,AI-driven analytics support better business decisions,positive
+83,AI makes online services more personalized,positive
+84,AI is revolutionizing transportation systems,positive
+85,AI enables smarter financial services,positive
+86,AI enhances user experiences in applications,positive
+87,AI supports environmental sustainability efforts,positive
+88,AI is advancing robotics and automation,positive
+89,AI contributes to scientific discoveries,positive
+90,AI improves efficiency in supply chain management,positive
+91,AI is becoming a standard tool in many industries,neutral
+92,AI policies are being debated by governments,neutral
+93,AI research funding is increasing globally,neutral
+94,AI is included in many university curricula,neutral
+95,AI is used in predictive maintenance,neutral
+96,AI solutions are being adopted by enterprises,neutral
+97,AI development requires ethical considerations,neutral
+98,AI is part of digital transformation strategies,neutral
+99,AI technologies are evolving rapidly,neutral
+100,AI applications continue to expand,neutral
